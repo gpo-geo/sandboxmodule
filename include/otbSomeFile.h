@@ -3,11 +3,11 @@
 
 // this header defines export macros, such as ExternalTemplate_EXPORT.
 // On Windows, it is replaced by declspec import/export
-#include "ExternalTemplateExport.h"
+#include "SandBoxModuleExport.h"
 
 namespace otb {
 
-ExternalTemplate_EXPORT void ThisFunctionDoesNothing();
+SandBoxModule_EXPORT void ThisFunctionDoesNothing();
 
 }
 

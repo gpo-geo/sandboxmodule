@@ -1,8 +1,8 @@
 cmake_minimum_required(VERSION 3.10.2)
-project(ExternalTemplate)
+project(SandBoxModule)
 
 # This module create a library, with the same name as the module
-set(ExternalTemplate_LIBRARIES ExternalTemplate)
+set(SandBoxModule_LIBRARIES SandBoxModule)
 
 if(NOT OTB_SOURCE_DIR)
   # Handle the compilation outside OTB source tree: find where OTB is built/installed
