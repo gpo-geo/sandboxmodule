@@ -15,7 +15,7 @@ public:
 private:
   void DoInit() override
   {
-    SetName("EmptyApp")
+    SetName("EmptyApp");
     SetDescription("Empty application.");
   }
 
