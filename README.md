@@ -1,6 +1,6 @@
 # General
 
-[![Build Status](https://travis-ci.org/orfeotoolbox/remote-module-template.svg?branch=master)](https://travis-ci.org/orfeotoolbox/remote-module-template)
+[![Build Status](https://travis-ci.org/gpo-geo/sandboxmodule.svg?branch=master)](https://travis-ci.org/gpo-geo/sandboxmodule)
 
 This is a template module for the ORFEO
 Toolbox(https://www.orfeo-toolbox.org/). It is designed to work with OTB >= 5.0
